@@ -19,7 +19,9 @@
 #
 -->
 
-[![Build Status](https://travis-ci.org/apache/cordova-ios.svg)](https://travis-ci.org/apache/cordova-ios)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-ios?branch=master)](https://ci.appveyor.com/project/Humbedooh/cordova-ios)
+[![Build Status](https://travis-ci.org/apache/cordova-ios.svg?branch=master)](https://travis-ci.org/apache/cordova-ios)
+[![codecov.io](https://codecov.io/github/apache/cordova-ios/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-ios?branch=master)
 
 Cordova iOS
 =============================================================
@@ -29,7 +31,7 @@ Cordova iOS is an iOS application library that allows for Cordova-based projects
 
 Requires:
 
-* Xcode 6.x or greater. Download it at [http://developer.apple.com/downloads](http://developer.apple.com/downloads) or the [Mac App Store](http://itunes.apple.com/us/app/xcode/id497799835?mt=12).
+* Xcode 7.x or greater. Download it at [http://developer.apple.com/downloads](http://developer.apple.com/downloads) or the [Mac App Store](http://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 <br />
 * [node.js](https://nodejs.org)
 
